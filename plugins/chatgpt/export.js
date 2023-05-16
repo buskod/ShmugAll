@@ -1,7 +1,7 @@
 /**
- * @name nofwl/chatgpt
+ * @name smugall/chatgpt
  * @description ChatGPT Export
- * @author lencx
+ * @author buskod
  */
 
 console.log('nofwl: ChatGPT Export');
